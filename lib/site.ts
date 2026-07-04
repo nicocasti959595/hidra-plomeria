@@ -35,7 +35,7 @@ export const site = {
   facebook: "https://facebook.com/",
 
   // SEO
-  url: "https://hidra-plomeria.vercel.app",
+  url: "https://demo-plomeria-v1.ideawebx.com",
   locale: "es_AR",
 };
 
